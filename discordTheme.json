@@ -3,7 +3,6 @@
 	"author": "ebomb202#8180",
 	"version": "1.0",
 	"description": "Cool theme I made cus why not",
-	"color": "#FF79FF",
 	"authors": [ 
 		{
 			"name": "ebomb202",
@@ -50,7 +49,7 @@
 		"PRIMARY_DARK_630": "#FFFFFF",
 		"PRIMARY_DARK_700": "#FFFFFF",
 		"PRIMARY_DARK_800": "#FFFFFF",
-		"BRAND_NEW": "#FFFFFF",
+		"BRAND_NEW": "transparent",
 		"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {

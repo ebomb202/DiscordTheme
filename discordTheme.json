@@ -1,0 +1,59 @@
+{
+	"name": "Cool Theme",
+	"author": "ebomb202#8180",
+	"version": "1.0",
+	"description": "Cool theme I made cus why not",
+	"color": "#FF79FF",
+	"authors": [ 
+		{
+			"name": "ebomb202",
+			"id": "606154480647405588"
+		}
+	],
+	"background": {
+		"blur": "0.5",
+		"url": "https://cdn.wallpapersafari.com/7/1/wVEOrk.jpg",
+		"alpha": "0.69"
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#403C42", "#403C42"],
+		"BACKGROUND_PRIMARY": ["#686669", "#686669"],
+		"BACKGROUND_SECONDARY": ["#CB57D4", "#CB57D4"],
+		"BACKGROUND_SECONDARY_ALT": ["#9065AD", "#9065AD"],
+		"BACKGROUND_TERTIARY": ["#1F2438", "#1F2438"],
+		"BACKGROUND_ACCENT": ["#0A6304", "#0A6304"],
+		"BACKGROUND_FLOATING": ["#000000", "#FFFFFF"],
+		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#000000", "#FFFFFF"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
+		"CHANNELS_DEFAULT": ["#000000", "#FFFFFF"],
+		"HEADER_PRIMARY": ["#000000", "#FFFFFF"],
+		"HEADER_SECONDARY": ["#000000", "#FFFFFF"],
+		"INTERACTIVE_ACTIVE": ["#000000", "#FFFFFF"],
+		"INTERACTIVE_MUTED": ["#000000", "#FFFFFF"],
+		"INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
+		"TEXT_LINK": ["#000000", "#FFFFFF"],
+		"TEXT_MUTED": ["#000000", "#FFFFFF"],
+		"TEXT_NORMAL": ["#000000", "#FFFFFF"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#FFFFFF",
+		"PRIMARY_DARK_360": "#FFFFFF",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#FFFFFF",
+		"PRIMARY_DARK_600": "#FFFFFF",
+		"PRIMARY_DARK_630": "#FFFFFF",
+		"PRIMARY_DARK_700": "#FFFFFF",
+		"PRIMARY_DARK_800": "#FFFFFF",
+		"BRAND_NEW": "#FFFFFF",
+		"WHITE": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#000000"
+	}
+}

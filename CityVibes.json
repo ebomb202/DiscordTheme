@@ -1,7 +1,7 @@
 {
   "name": "City Vibes",
   "description": "City vibes, or not.",
-  "version": "1",
+  "version": "1.1",
   "authors": [
     {
       "name": "ebomb202",
@@ -151,7 +151,7 @@
     "CHAT_GREY": "#1f2e33"
   },
   "background": {
-    "blur": 1.5,
+    "blur": 0.2,
     "url": "https://github.com/ebomb202/DiscordTheme/blob/6c0aa9d4d11f1ac6bb1db91dc8257ed796912a0e/CityVibes.jpg",
     "alpha": 1.0
   }
